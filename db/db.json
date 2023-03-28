@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "name": "criar uma API",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "name": "fazer um projeto",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "name": "aprender sobre MySQL",
+      "completed": false,
+      "id": 6
+    }
+  ]
+}
